@@ -1,0 +1,17 @@
+{
+  "name": "basic-info-site",
+  "version": "1.0.0",
+  "description": "Basic site for the Odin  Project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
+  }
+}
